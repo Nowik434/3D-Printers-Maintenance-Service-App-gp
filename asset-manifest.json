@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/3D-Printers-Maintenance-Service-App-gp/static/css/main.983f51ec.chunk.css",
+    "main.js": "/3D-Printers-Maintenance-Service-App-gp/static/js/main.bb1635cc.chunk.js",
+    "main.js.map": "/3D-Printers-Maintenance-Service-App-gp/static/js/main.bb1635cc.chunk.js.map",
+    "runtime-main.js": "/3D-Printers-Maintenance-Service-App-gp/static/js/runtime-main.372a2980.js",
+    "runtime-main.js.map": "/3D-Printers-Maintenance-Service-App-gp/static/js/runtime-main.372a2980.js.map",
+    "static/js/2.53438ae0.chunk.js": "/3D-Printers-Maintenance-Service-App-gp/static/js/2.53438ae0.chunk.js",
+    "static/js/2.53438ae0.chunk.js.map": "/3D-Printers-Maintenance-Service-App-gp/static/js/2.53438ae0.chunk.js.map",
+    "static/js/3.749407ce.chunk.js": "/3D-Printers-Maintenance-Service-App-gp/static/js/3.749407ce.chunk.js",
+    "static/js/3.749407ce.chunk.js.map": "/3D-Printers-Maintenance-Service-App-gp/static/js/3.749407ce.chunk.js.map",
+    "index.html": "/3D-Printers-Maintenance-Service-App-gp/index.html",
+    "static/css/main.983f51ec.chunk.css.map": "/3D-Printers-Maintenance-Service-App-gp/static/css/main.983f51ec.chunk.css.map",
+    "static/js/2.53438ae0.chunk.js.LICENSE.txt": "/3D-Printers-Maintenance-Service-App-gp/static/js/2.53438ae0.chunk.js.LICENSE.txt",
+    "static/media/logo.0ee4273f.svg": "/3D-Printers-Maintenance-Service-App-gp/static/media/logo.0ee4273f.svg",
+    "static/media/m200.98415883.jpg": "/3D-Printers-Maintenance-Service-App-gp/static/media/m200.98415883.jpg",
+    "static/media/m2001.904cb060.jpg": "/3D-Printers-Maintenance-Service-App-gp/static/media/m2001.904cb060.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.372a2980.js",
+    "static/js/2.53438ae0.chunk.js",
+    "static/css/main.983f51ec.chunk.css",
+    "static/js/main.bb1635cc.chunk.js"
+  ]
+}
